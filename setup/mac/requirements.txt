@@ -1,0 +1,11 @@
+openai
+requests
+transformers
+torch
+torchvision
+torchaudio
+streamlit
+streamlit-chat
+watchdog
+flask
+python-dotenv
